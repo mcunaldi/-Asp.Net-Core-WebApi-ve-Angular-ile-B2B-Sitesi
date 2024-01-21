@@ -17,3 +17,4 @@ D:\B2B - Taner Saydam\B2BBackEnd\DataAccess\obj\Debug\net6.0\refint\DataAccess.d
 D:\B2B - Taner Saydam\B2BBackEnd\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 D:\B2B - Taner Saydam\B2BBackEnd\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
 D:\B2B - Taner Saydam\B2BBackEnd\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\B2B - Taner Saydam\B2BBackEnd\DataAccess\obj\Debug\net6.0\DataAccess.sourcelink.json

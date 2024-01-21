@@ -57,7 +57,7 @@ public class AuthManager : IAuthService
         //    return new ErrorDataResult<Token>("Kullanıcı maili onaylanmamış!");
 
         var result = HashingHelper.VerifyPasswordHash(customerLoginDto.Password, customer.PasswordHash, customer.PasswordSalt);
-        List<OperationClaim> operationClaims = await _userService.GetUserOperationClaims(customer.Id);
+        //List<OperationClaim> operationClaims = await _userService.GetUserOperationClaims(customer.Id);
 
         if (result)
         {
