@@ -10,7 +10,8 @@
 
                 <form #loginForm="ngForm">
                     <div class="input-group mb-3">
-                        <input type="email" class="form-control" placeholder="Email">
+                        <input type="email" class="form-control" required email placeholder="Email" ngModel
+                            name="email">
                         <div class="input-group-append">
                             <div class="input-group-text">
                                 <span class="fas fa-envelope"></span>
@@ -18,14 +19,16 @@
                         </div>
                     </div>
                     <div class="input-group mb-3">
-                        <input type="password" class="form-control" placeholder="Password">
+                        <input type="password" class="form-control" required placeholder="Password" ngModel
+                        name="password">
                         <div class="input-group-append">
                             <div class="input-group-text">
                                 <span class="fas fa-lock"></span>
                             </div>
                         </div>
                     </div>
-                    <button type="submit" class="btn btn-primary btn-block">Giriş Yap</button>
+                    <button type="submit" [disabled]="!loginForm.valid" (click)="login(loginForm.value)"
+                        class="btn btn-primary btn-block">Giriş Yap</button>
                 </form>
                 <!-- /.social-auth-links -->
 

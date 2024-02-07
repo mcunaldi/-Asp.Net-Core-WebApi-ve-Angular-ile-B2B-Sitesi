@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\B2B - Taner Saydam\\B2BBackEnd\\Business\\Business.csproj": {}
+    "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Business\\Business.csproj": {}
   },
   "projects": {
-    "D:\\B2B - Taner Saydam\\B2BBackEnd\\Business\\Business.csproj": {
+    "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Business\\obj\\",
+        "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj"
+              "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj"
               }
             }
           }
@@ -84,21 +84,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj": {
+    "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Core\\obj\\",
+        "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,8 +112,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj"
+              "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj"
               }
             }
           }
@@ -173,21 +173,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -201,11 +201,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj": {
-                "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj"
+              "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Core\\Core.csproj"
               },
-              "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj"
+              "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj"
               }
             }
           }
@@ -247,21 +247,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj": {
+    "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\W10\\Desktop\\B2B - Taner Saydam\\B2BBackEnd\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -308,7 +308,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
