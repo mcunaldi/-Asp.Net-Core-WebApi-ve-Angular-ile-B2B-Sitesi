@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AdminDecodeService } from 'src/app/admin/login/service/admin-decode.service';
 
 @Component({
   selector: 'app-aside',
@@ -7,9 +8,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AsideComponent implements OnInit {
 
-  constructor() { }
+  userName: string = "";
+
+  constructor(
+    private adminDecodeService: AdminDecodeService
+  ) { }
 
   ngOnInit(): void {
+    this.userName = this.adminDecodeService.getUserName();
   }
+
 
 }

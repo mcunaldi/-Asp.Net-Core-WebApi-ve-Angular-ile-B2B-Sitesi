@@ -3,6 +3,8 @@ import { Inject, Injectable, inject } from '@angular/core';
 import { Router } from '@angular/router';
 import { AdminLoginModel } from '../models/admin-login-model';
 import { AdminTokenModel } from '../models/admin-token-model';
+import { ToastrService } from 'ngx-toastr';
+import { ErrorService } from 'src/services/error.service';
 
 @Injectable({
   providedIn: 'root'
@@ -14,7 +16,9 @@ export class AuthService {
   constructor(
     @Inject("apiUrl") private apiUrl:string,
     private httpClient: HttpClient,
-    private router: Router
+    private toastr: ToastrService,
+    private router: Router,
+    private errorService: ErrorService
   ) { }
 
   isAuthenticate(){
@@ -30,8 +34,15 @@ export class AuthService {
       this.adminTokenModel = res.data;
       localStorage.setItem("adminToken", this.adminTokenModel.adminAccessToken);
       this.router.navigate(["admin"])
+      this.toastr.success("Giriş başarılı");
     },(err)=>{
-
+      this.errorService.errorHandler(err);
     })
+  }
+
+  logout(){
+    localStorage.removeItem("adminToken");
+    this.router.navigate(["/admin-login"]);
+    this.toastr.info("Çıkış başarılı");
   }
 }
